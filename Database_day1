@@ -1,0 +1,4 @@
+DML   insert update delete merge
+DDL   create alter drop rename
+DCL   grant lock commit rollback connect revoke 
+DQL   select
